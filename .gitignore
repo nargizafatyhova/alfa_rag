@@ -1,0 +1,13 @@
+# data (предоставляется организаторами, не коммитим)
+*.csv
+*.parquet
+*.npy
+*.pkl
+# окружение и кэши
+.venv/
+__pycache__/
+*.pyc
+artifacts/
+hf/
+*.log
+.DS_Store
